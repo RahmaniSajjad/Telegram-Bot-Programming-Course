@@ -12,6 +12,10 @@ This course is designed to provide you with a comprehensive understanding of Tel
 
 The course consists of multiple sessions, each focusing on different aspects of Telegram bot programming. Below is a list of sessions along with the corresponding video links and code repositories:
 
+### Session 0
+
+- Code: [Telegram Bot Hello World](https://github.com/RahmaniSajjad/Telegram-Bot-Programming-Course/blob/main/bot.py)
+
 ### Session 1
 
 - Video: [Session 1](https://youtu.be/D3O_eL7l-oY)
